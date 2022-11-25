@@ -1,0 +1,17 @@
+body {
+  background: #f2f2f2;
+}
+
+.box {
+  background: linear-gradient(#000046, #174b9e, #1cb5e0, #22c1c3);  
+  
+  color: white;
+  padding: 3rem 1rem;
+  margin: 3rem;
+}
+
+#cardBody {
+  background: linear-gradient(to right, #000046, #174b9e);  
+  
+  color: white;
+}

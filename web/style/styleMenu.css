@@ -1,0 +1,18 @@
+body {
+  background: #f2f2f2;
+  text-align: center;
+}
+
+.box {
+  background: radial-gradient(circle at top left, #fdbb2d, #22c1c3);  
+  
+   color: white;
+  padding: 3rem 1rem;
+  margin: 3rem;
+}
+
+#cardBody {
+  background: linear-gradient(to right, #fdbb2d, #22c1c3);  
+  
+  color: white;
+}
